@@ -1,0 +1,12 @@
+CAUTION !!
+PLEASE READ THIS FULLY !!
+
+* After you extract this, all you have to do is:
+  1. Change Folder "ChangeYourProjectNameHere" with your Project Name
+  2. After it, open package.json with your code editor
+  3. You will see "name": "ChangeYourProjectNameHere" at the top of other text
+  4. Change it as same as your folder Project
+     ex: if you named your project folder "TugasPK-7", so you need change
+	 "name": "ChangeYourProjectNameHere" like this => "name": TugasPK-7"
+
+ Note: Please backup your first project, then use this as fuck as possible
